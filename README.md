@@ -11,11 +11,12 @@
  - Gateway y microservicio de Usuarios ya desplegados y comunicandose entre si
  - Aregamos primera conexion a mongo desde el microservicio de usuarios
  - Agregamos conexion a FireBase con un primer intento de registro y login de usuarios
+ - Empezamos con el microservicio de Voyage
 
 
 ### Semana 18/09/22
- - a
- - b
+ - Avances en el microservicio de Voyage (Aca deberiamos explicar los avances quizas)
+ - Avances en el microservicio de Users
  - c
  
  
