@@ -1,15 +1,16 @@
 # Bitacora del proyecto
 
 ### Semana 04/09/22
-  - Pensar arq
-  - Walking skeleton
-  - asd
+  - Primeras ideas sobre la arquitectura
+  - Investigacion sobre las tecnologias a utilizar, principalmente FastAPI, Firebase, Heroku, GitHub Actions.
+  - Planteo de diagramas de secuencia sobre posibles escenarios
+  - Creacion de un tablero en trello para llevar cuenta de historias realizadas y en proceso
 
 
 ### Semana 11/09/22
- - a
- - b
- - c
+ - Gateway y microservicio de Usuarios ya desplegados y comunicandose entre si
+ - Aregamos primera conexion a mongo desde el microservicio de usuarios
+ - Agregamos conexion a FireBase con un primer intento de registro y login de usuarios
 
 
 ### Semana 18/09/22
