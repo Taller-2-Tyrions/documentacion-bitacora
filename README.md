@@ -23,12 +23,12 @@
  - b
  - c
  
-### Semana 01/10/22
+### Semana 02/10/22
  - a
  - b
  - c
  
- ### Semana 08/10/22
+ ### Semana 09/10/22
  - a
  - b
  - c
@@ -38,14 +38,49 @@
  - b
  - c
  
-### Semana 15/10/22
+### Semana 16/10/22
  - a
  - b
  - c
  
 
-### Semana 22/10/22
+### Semana 23/10/22
  - a
  - b
  - c
  
+ 
+### Semana 30/10/22
+ - a
+ - b
+ - c
+
+### Semana 06/11/22
+ - a
+ - b
+ - c
+
+### Semana 13/11/22
+ - a
+ - b
+ - c
+
+### Semana 20/11/22
+ - a
+ - b
+ - c
+
+### Semana 27/11/22
+ - a
+ - b
+ - c
+
+### Semana 04/12/22
+ - a
+ - b
+ - c
+
+### Semana 11/12/22
+ - a
+ - b
+ - c
