@@ -65,3 +65,16 @@
 
 ### Semana 11/12/22
  - Arreglos en Voyage para conseguir si es vip y continuamos arreglando estados en casos de cancelación.
+ 
+ *******
+ 
+ # Analisis Postmortem
+ 
+ La materia resulto sumamente compleja, principalmente por el hecho de tener que aprender a utilizar una gran cantidad de tecnologias en un corto periodo de tiempo. Ademas de que la cantidad de tecnologias es grande, los dominios de cada uno de los microservicios son extremadamente distintos, por ejemplo, para payments hay que aprender sobre Solidity, blockchain y criptografia, y para Users son tecnologias completamente diferentes como firebase, push notifications, tokens, etc. Aprender todos estos nuevos conceptos requiere mucho tiempo de lectura de documentacion.
+ 
+Otra de las grandes dificultades, y algo que se deberia haber manejado diferente, fue la division de tareas. Esto se debe a que solo uno de los cuatro integrantes se ocupo practicamente de todo el FrontEnd mobile y el resto se ocupo del backend. Esto genero que ambos equipos fueran a destiempo ya que se avanzaba muy rapido desde el backend y no asi desde el frontend, con lo que los features no se podrian realmente probar bien y generaba que constantemente tengamos que volver a hacer cambios para que la integracion funcione correctamente.
+
+Por otro lado, lo positivo es que creemos que pudimos sacarle provecho a la materia. Nos permitio poner en practica habilidades (trabajo en equipo, comunicacion, uso de metodologias agiles) y herramientas (tecnologias) que se requieren y utilizan en la industria y en la practica profesional.
+
+
+
